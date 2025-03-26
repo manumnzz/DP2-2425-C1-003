@@ -1,0 +1,9 @@
+authenticated.technician.maintenanceRecord.list.title = Listado de registros de mantenimiento
+
+
+authenticated.technician.maintenanceRecord.list.label.maintenanceDate = Ultima fecha de mantenimiento
+authenticated.technician.maintenanceRecord.list.label.status = Estado
+authenticated.technician.maintenanceRecord.list.label.nextInspectionDue = Proxima fecha de mantenimiento
+authenticated.technician.maintenanceRecord.list.label.estimatedCost = Coste aporximado
+authenticated.technician.maintenanceRecord.list.label.technician = Tecinco responsable
+authenticated.technician.maintenanceRecord.list.label.aircraft = Avion
